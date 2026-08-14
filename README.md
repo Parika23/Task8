@@ -1,4 +1,4 @@
-# Day 8 – E-commerce Sales Analysis
+# E-commerce Sales Analysis
 
 ## Overview
 
